@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Fun(){
+export default function Facts(){
 return(
     <div>
         <h2>Fun facts about React</h2>
@@ -14,5 +14,6 @@ return(
     </div>
     
 )}
+
 
 

@@ -1,12 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
-import Fun from './facts';
+import Nav from './nav';
+import Facts from './facts';
 
 function App() {
   return (
     <div className="App">
-      <App />
-      <Fun />
+      <Nav />
+      <Facts />
     </div>
   );
 }
