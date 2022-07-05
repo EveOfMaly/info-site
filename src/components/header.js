@@ -11,8 +11,8 @@ export default function Header(){
                     <li>About</li>
                     <li>Contact</li>
                 </ul>
-                {/* <h3>React Facts</h3>
-                <span>React Course - Project 1</span> */}
+                <h3>React Facts</h3>
+                <span>React Course - Project 1</span>
             </nav>
       </header>
     )
